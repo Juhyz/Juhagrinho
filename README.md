@@ -44,3 +44,7 @@
     color: var(--branco-principal);
     margin-left: 1em;
 }
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
+}
